@@ -17,6 +17,7 @@ $error = ""; // Initialize error variable
 
 if (isset($_POST['login'])) {
   $username = $_POST['user'];
+  
   $password = $_POST['pass'];
   $result = $con->check($username, $password);
 
