@@ -141,4 +141,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script> <!-- Pop Up Messages after a succesful transaction ends here -->
 </body>
-</html>
+</html> 
