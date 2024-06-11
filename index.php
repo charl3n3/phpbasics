@@ -123,12 +123,12 @@ document.addEventListener('DOMContentLoaded', function() {
         break;
         case 'success1':
         title = 'Success!';
-        text = 'Record is successfully updated.';
+        text = 'Record is successfully deleted.';
         icon = 'success';
         break;
         case 'success2':
         title = 'Success!';
-        text = 'Record is successfully updated.';
+        text = 'You are already logged in.';
         icon = 'success';
         break;
       case 'error':
